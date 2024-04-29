@@ -9,9 +9,11 @@
 ## ⚡ Multi thread wget alternative 
  - **Python Version**: [mget](https://github.com/ruzhila/mget)
   
-
 ## 🎮 Tetris game 
  - **Python Version**: [tetris-py](https://github.com/ruzhila/tetris-py)
+
+## 🐍 贪吃蛇
+ - **Java版本**: [snake-java](https://github.com/ruzhila/snake-java)
   
 ## 📊 Excel/CSV to JSON/Mardown converter
  - **Go Version**: [excel2json](https://github.com/ruzhila/excel_csv_to_json_or_markdown)
