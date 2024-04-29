@@ -12,7 +12,7 @@
 ## 🎮 Tetris game 
  - **Python Version**: [tetris-py](https://github.com/ruzhila/tetris-py)
 
-## 🐍 贪吃蛇
+## 🐍 Snake game
  - **Java版本**: [snake-java](https://github.com/ruzhila/snake-java)
   
 ## 📊 Excel/CSV to JSON/Mardown converter
