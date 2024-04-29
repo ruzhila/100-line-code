@@ -14,4 +14,4 @@
  - **Python Version**: [tetris-py](https://github.com/ruzhila/tetris-py)
   
 ## 📊 Excel/CSV to JSON/Mardown converter
- - **Python Version**: [excel2json](https://github.com/ruzhila/excel_csv_to_json_or_markdown)
+ - **Go Version**: [excel2json](https://github.com/ruzhila/excel_csv_to_json_or_markdown)
