@@ -14,6 +14,9 @@
 
 ## 🐍 Snake game
  - **Java Version**: [snake-java](https://github.com/ruzhila/snake-java)
+
+## 🔢 2048 game
+ - **Js Version**: [2048-js](https://github.com/ruzhila/2048-js)
   
 ## 📊 Excel/CSV to JSON/Mardown converter
  - **Go Version**: [excel2json](https://github.com/ruzhila/excel_csv_to_json_or_markdown)
