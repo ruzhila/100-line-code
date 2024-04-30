@@ -18,6 +18,8 @@
 ## 📊 Excel/CSV 转 JSON/Mardown 表格
  - **Go版本**: [excel2json](https://github.com/ruzhila/excel_csv_to_json_or_markdown)
 
+## 🔢 2048
+ - **Js 版本**: [2048-js](https://github.com/ruzhila/2048-js)
 
 # 🙋‍♀️学习更多100行实战项目
  想要学习更多100行实战项目，可关注公众号<strong>「入职啦」</strong>，或加入学习交流群，每日分享有趣实用的100行代码实战项目，更有老师在线答疑解惑，帮助你快速提升编程能力。
