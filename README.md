@@ -12,6 +12,9 @@
 ## 🎮 Tetris game 
  - **Python Version**: [tetris-py](https://github.com/ruzhila/tetris-py)
 
+## 🏓Breakout game 
+ - **Python Version**: [breakout-py](https://github.com/ruzhila/breakout-py)
+
 ## 🐍 Snake game
  - **Java Version**: [snake-java](https://github.com/ruzhila/snake-java)
 
