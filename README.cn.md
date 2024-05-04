@@ -12,6 +12,9 @@
 ## 🎮 俄罗斯方块
  - **Python版本**: [tetris-py](https://github.com/ruzhila/tetris-py)
 
+## 🏓打砖块 
+ - **Python Version**: [breakout-py](https://github.com/ruzhila/breakout-py)
+
 ## 🐍 贪吃蛇
  - **Java版本**: [snake-java](https://github.com/ruzhila/snake-java)
   
