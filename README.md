@@ -23,3 +23,6 @@
   
 ## 📊 Excel/CSV to JSON/Mardown converter
  - **Go Version**: [excel2json](https://github.com/ruzhila/excel_csv_to_json_or_markdown)
+  
+## 🛜 Websockify, TCP to Websocket proxy
+ - **Go Version**: [websockify](https://github.com/ruzhila/websockify-go)
