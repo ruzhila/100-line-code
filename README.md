@@ -26,3 +26,6 @@
   
 ## 🛜 Websockify, TCP to Websocket proxy
  - **Go Version**: [websockify](https://github.com/ruzhila/websockify-go)
+
+## 🧩 Nio http download, Simple Java NIO Example
+ - **Java Version**: [java-nio-http-download](https://github.com/ruzhila/java-nio-http-download)
