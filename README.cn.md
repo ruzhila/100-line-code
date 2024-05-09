@@ -27,7 +27,7 @@
 ## 🛜 Websockify, TCP转Websocket代理，支持Docker和单元测试参考
  - **Go 版本**: [websockify](https://github.com/ruzhila/websockify-go)
 
-## 🧩 Nio http download,简单Java实现NIO示例
+## 🧩 Nio http download
  - **Java 版本**: [java-nio-http-download](https://github.com/ruzhila/java-nio-http-download)
 
 # 🙋‍♀️学习更多100行实战项目
